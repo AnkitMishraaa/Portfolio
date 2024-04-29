@@ -1122,8 +1122,8 @@ header .logo a {
 	height: 100%;
     position:relative;
     font-family:'Comic Sans MS';
-	/* background-size: 113px 30px; */
-}
+    background-size: auto; 
+	}
 header{
 	background-color: black;
 	width: 220px;
